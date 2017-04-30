@@ -1,0 +1,24 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "Thinkster.io Mean Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otherstark88/mean_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otherstark88/mean_tutorial/issues"
+  },
+  "homepage": "https://github.com/otherstark88/mean_tutorial#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "run-sequence": "^1.2.2"
+  }
+}
