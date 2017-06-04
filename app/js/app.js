@@ -12,5 +12,5 @@ function($scope){
     {title:'post 4', upvotes:95},
     {title:'post 5', upvotes:3}
   ];
-
+  alert(1);
 }]);
